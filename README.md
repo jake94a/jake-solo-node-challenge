@@ -1,3 +1,18 @@
+# set up
+- `git clone https://github.com/jake94a/jake-solo-node-challenge.git`
+
+install nvm
+- `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash`
+
+install node
+- `nvm install 11.9.0`
+
+install packages and start
+- `cd jake-solo-node-challenge`
+- `npm install`
+- `npm start`
+
+
 # node-exercise
 A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/) and [express.js](https://expressjs.com/)
 
